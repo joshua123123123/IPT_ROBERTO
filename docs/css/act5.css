@@ -1,0 +1,17 @@
+.dark-theme {
+    background-color: #121212;
+    color: white;
+}
+
+.dark-theme header {
+    background-color: #333;
+    color: white;
+}
+
+.dark-theme a {
+    color: #fdd835;
+}
+
+.dark-theme .intro {
+    border: 1px solid white;
+}
